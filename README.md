@@ -1,3 +1,26 @@
+
+## **Disclaimer & Modification Notice**
+This repository is a **fork** of the official [CRPropa 3](https://github.com/CRPropa/CRPropa3) project.
+
+**Nature of Modifications:**
+This version contains personal modifications developed for academic research at the **Federal University of Rio de Janeiro (UFRJ)**. The changes are not endorsed by the original CRPropa developers.
+
+**Licensing and Warranty:**
+In accordance with the **GNU GPLv3** , this software is provided **"AS IS"**, without warranty of any kind. The modifications are clearly marked in the source code. All original copyright notices and license terms remain intact.
+ 
+ 
+
+## **Aviso de Modificação e Isenção de Responsabilidade**
+Este repositório é um **fork** do projeto oficial [CRPropa 3](https://github.com/CRPropa/CRPropa3).
+
+**Modificações:**
+Esta versão contém alterações personalizadas desenvolvidas para fins de pesquisa na **UFRJ**. As modificações foram feitas por **Eros Moreira**.
+ 
+**Licença e Garantia:**
+Este trabalho é distribuído sob a licença **GNU GPLv3**. Conforme exigido pela licença, este software é fornecido **"COMO ESTÁ" (AS IS)**, sem qualquer tipo de garantia. Os autores originais não são responsáveis por bugs ou comportamentos inesperados resultantes destas modificações.
+
+
+
 CRPropa
 ========
 
