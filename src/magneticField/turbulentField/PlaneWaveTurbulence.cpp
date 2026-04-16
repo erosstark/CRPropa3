@@ -60,6 +60,7 @@
 #ifdef ENABLE_FAST_WAVES
 #include <immintrin.h>
 #include <memory.h>
+#include <memory>
 #endif
 
 namespace crpropa {
